@@ -1,2 +1,3 @@
 # SentimentAnalysis
-Sentiment analysis using github
+Just a starting point to sentiment analysis
+
